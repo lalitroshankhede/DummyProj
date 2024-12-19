@@ -3,6 +3,8 @@ package com.demo;
 public class TestApp {
 	public static void main(String[] args) {
 		
-		System.out.println("Hello Mr. Lalit");
+		 int num1=10, num2=20;
+		System.out.println(num1+num2);
+		
 	}
 }
